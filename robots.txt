@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://tabithaj376.github.io/wood-flooring/sitemapx.xml
